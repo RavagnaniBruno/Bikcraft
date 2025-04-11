@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  box-sizing: border-box; /*o padding vai ser somado aos tamandos de layout*/
+  list-style: none;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 600px;
+  color: var(--cor-11);
+}
+
+
+
+a {
+  color: inherit;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
